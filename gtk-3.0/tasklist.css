@@ -1,0 +1,18 @@
+.tasklist button
+{
+ border: 0px none;
+ color: @bg_color;
+ background: none;
+}
+
+.tasklist button:checked
+{
+ color: white;
+ background: @selected_bg_color;
+}
+
+.tasklist button:hover
+{
+ color: @text_color;
+ background: white;
+}

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=XAmbiance
+Comment=Classic Ubuntu theme based on Arc-Ambiance with a slightly darker elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=XAmbiance
+MetacityTheme=XAmbiance
+IconTheme=gnome
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
